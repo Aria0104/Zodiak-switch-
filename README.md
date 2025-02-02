@@ -1,3 +1,4 @@
+```
 Console.WriteLine("Ваше имя");
 string name = Convert.ToString(Console.ReadLine());
 Console.WriteLine("Ваша фамилия");
@@ -115,3 +116,4 @@ string zodiack = "";
 }
 
 Console.WriteLine($"Ваше имя: {name}, Ваша фамилия {surname}, Ваш знак зодиака {zodiack}");
+```
